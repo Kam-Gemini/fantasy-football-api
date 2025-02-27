@@ -1,0 +1,332 @@
+[
+    {
+        "model": "players.players",
+        "pk": 1,
+        "fields": {
+            "image": "player_images/David_Raya.jpg",
+            "name": "David Raya",
+            "club": "Arsenal",
+            "position": "Goalkeeper",
+            "price": 10,
+            "appearances": "26",
+            "goals": null,
+            "assists": null,
+            "cleansheets": "9"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 2,
+        "fields": {
+            "image": "player_images/William_Saliba.jpg",
+            "name": "William Saliba",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "24",
+            "goals": "2",
+            "assists": "0",
+            "cleansheets": "9"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 3,
+        "fields": {
+            "image": "player_images/Kieran_Tierney.jpg",
+            "name": "Kieran Tierney",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "3",
+            "goals": "0",
+            "assists": "0",
+            "cleansheets": "0"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 4,
+        "fields": {
+            "image": "player_images/Ben_White.jpg",
+            "name": "Ben White",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "10",
+            "goals": "0",
+            "assists": "1",
+            "cleansheets": "3"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 5,
+        "fields": {
+            "image": "player_images/Gabriel_Magalh\u00e3es.jpg",
+            "name": "Gabriel Magalh\u00e3es",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "24",
+            "goals": "3",
+            "assists": "1",
+            "cleansheets": "8"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 6,
+        "fields": {
+            "image": "player_images/Jurri\u00ebn_Timber.jpg",
+            "name": "Jurri\u00ebn Timber",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "23",
+            "goals": "1",
+            "assists": "1",
+            "cleansheets": "6"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 7,
+        "fields": {
+            "image": "player_images/Jakub_Kiwior.jpg",
+            "name": "Jakub Kiwior",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "8",
+            "goals": "0",
+            "assists": "0",
+            "cleansheets": "1"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 8,
+        "fields": {
+            "image": "player_images/Takehiro_Tomiyasu.jpg",
+            "name": "Takehiro Tomiyasu",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "1",
+            "goals": "0",
+            "assists": "0",
+            "cleansheets": "0"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 9,
+        "fields": {
+            "image": "player_images/Oleksandr_Zinchenko.jpg",
+            "name": "Oleksandr Zinchenko",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "9",
+            "goals": "0",
+            "assists": "0",
+            "cleansheets": "0"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 10,
+        "fields": {
+            "image": "player_images/Riccardo_Calafiori.jpg",
+            "name": "Riccardo Calafiori",
+            "club": "Arsenal",
+            "position": "Defender",
+            "price": 10,
+            "appearances": "15",
+            "goals": "2",
+            "assists": "1",
+            "cleansheets": "0"
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 11,
+        "fields": {
+            "image": "player_images/Thomas_Partey.jpg",
+            "name": "Thomas Partey",
+            "club": "Arsenal",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": "25",
+            "goals": "3",
+            "assists": "2",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 12,
+        "fields": {
+            "image": "player_images/Martin_\u00d8degaard.jpg",
+            "name": "Martin \u00d8degaard",
+            "club": "Arsenal",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": "18",
+            "goals": "2",
+            "assists": "3",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 13,
+        "fields": {
+            "image": "player_images/Declan_Rice.jpg",
+            "name": "Declan Rice",
+            "club": "Arsenal",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": "24",
+            "goals": "1",
+            "assists": "5",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 14,
+        "fields": {
+            "image": "player_images/Myles_Lewis-Skelly.jpg",
+            "name": "Myles Lewis-Skelly",
+            "club": "Arsenal",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": "12",
+            "goals": "1",
+            "assists": "0",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 15,
+        "fields": {
+            "image": "player_images/Ethan_Nwaneri.jpg",
+            "name": "Ethan Nwaneri",
+            "club": "Arsenal",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": "16",
+            "goals": "3",
+            "assists": "1",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 16,
+        "fields": {
+            "image": "player_images/Mikel_Merino.jpg",
+            "name": "Mikel Merino",
+            "club": "Arsenal",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": "18",
+            "goals": "4",
+            "assists": "1",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 17,
+        "fields": {
+            "image": "player_images/Bukayo_Saka.jpg",
+            "name": "Bukayo Saka",
+            "club": "Arsenal",
+            "position": "Forward",
+            "price": 10,
+            "appearances": "16",
+            "goals": "5",
+            "assists": "10",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 18,
+        "fields": {
+            "image": "player_images/Kai_Havertz.jpg",
+            "name": "Kai Havertz",
+            "club": "Arsenal",
+            "position": "Forward",
+            "price": 10,
+            "appearances": "21",
+            "goals": "9",
+            "assists": "3",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 19,
+        "fields": {
+            "image": "player_images/Gabriel_Jesus.jpg",
+            "name": "Gabriel Jesus",
+            "club": "Arsenal",
+            "position": "Forward",
+            "price": 10,
+            "appearances": "17",
+            "goals": "3",
+            "assists": "0",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 20,
+        "fields": {
+            "image": "player_images/Gabriel_Martinelli.jpg",
+            "name": "Gabriel Martinelli",
+            "club": "Arsenal",
+            "position": "Forward",
+            "price": 10,
+            "appearances": "22",
+            "goals": "6",
+            "assists": "3",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 21,
+        "fields": {
+            "image": "player_images/Leandro_Trossard.jpg",
+            "name": "Leandro Trossard",
+            "club": "Arsenal",
+            "position": "Forward",
+            "price": 10,
+            "appearances": "26",
+            "goals": "4",
+            "assists": "5",
+            "cleansheets": null
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 22,
+        "fields": {
+            "image": "player_images/Raheem_Sterling.jpg",
+            "name": "Raheem Sterling",
+            "club": "Arsenal",
+            "position": "Forward",
+            "price": 10,
+            "appearances": "11",
+            "goals": "0",
+            "assists": "1",
+            "cleansheets": null
+        }
+    }
+]
