@@ -1,6 +1,6 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from .serializers.common import PlayersSerializer
+from .serializers.common import PlayerSerializer
 from rest_framework.exceptions import NotFound
 
 from .models import Players
@@ -10,11 +10,11 @@ class PlayersListView(APIView):
 
     def get(self, request):
         players_queryset = Players.objects.all()
-        players_serialized = PlayersSerializer(players_queryset, many=True)
+        players_serialized = PlayerSerializer(players_queryset, many=True)
         return Response(players_serialized.data)
     
     def post(self, request):
-        player = PlayersSerializer(data=request.data)
+        player = PlayerSerializer(data=request.data)
         if player.is_valid():
             player.save()
             return Response(player.data, 201)
@@ -33,13 +33,13 @@ class PlayersDetailView(APIView):
 
     def get(self, request, player_id):
         player = self.get_object(player_id)
-        serialized_player = PlayersSerializer(player)
+        serialized_player = PlayerSerializer(player)
         return Response(serialized_player.data)
     
     def put(self, request, player_id):
         try:
             player = Players.objects.get(id=player_id)
-            serialized_player = PlayersSerializer(player, data=request.data, partial=True)
+            serialized_player = PlayerSerializer(player, data=request.data, partial=True)
             if serialized_player.is_valid():
                 serialized_player.save()
                 return Response(serialized_player.data, 201)
