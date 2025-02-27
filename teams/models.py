@@ -1,0 +1,17 @@
+from django.db import models
+from players.models import Players
+from users.models import User
+
+# Create your models here.
+class Teams(models.Model):
+    team_name = models.CharField(max_length=50)
+    goalkeeper = models.ForeignKey(to=Players, on_delete=models.SET_NULL, related_name='teams_as_goalkeeper', null=True, blank=True)
+    defenders = models.ManyToManyField(to=Players, related_name='team_defenders')
+    midfielders = models.ManyToManyField(to=Players, related_name='team_midfielders')
+    forwards = models.ManyToManyField(to=Players, related_name='team_forwards')
+    total_cost = models.IntegerField(blank=True, null=True)
+    total_points = models.IntegerField(blank=True, null=True)
+    user = models.ForeignKey(to=User, on_delete=models.CASCADE, related_name='owner', blank=True, null=True)
+
+    def __str__(self):
+        return self.team_name
