@@ -2,11 +2,13 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from .serializers.common import PlayerSerializer
 from rest_framework.exceptions import NotFound
+from rest_framework.permissions import IsAdminUser, IsAuthenticatedOrReadOnly
 
 from .models import Players
 
 # Create your views here.
 class PlayersListView(APIView):
+    permission_classes = [IsAuthenticatedOrReadOnly]
 
     def get(self, request):
         players_queryset = Players.objects.all()
@@ -22,6 +24,7 @@ class PlayersListView(APIView):
         return Response(player.errors, 422)
     
 class PlayersDetailView(APIView):
+    permission_classes = [IsAuthenticatedOrReadOnly]
 
     def get_object(self, player_id):
         try:

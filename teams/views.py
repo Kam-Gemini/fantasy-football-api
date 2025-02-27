@@ -1,7 +1,7 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
-from rest_framework.exceptions import NotFound
-from rest_framework.permissions import IsAuthenticated
+from rest_framework.exceptions import NotFound, ValidationError
+from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from .models import Teams
 from players.models import Players
 
@@ -9,7 +9,7 @@ from .serializers.common import TeamSerializer
 from .serializers.populated import PopulatedTeamSerializer
 
 class TeamsListView(APIView):
-    # permission_classes = [IsAuthenticated]
+    permission_classes = [IsAuthenticatedOrReadOnly]
 
     def get(self, _request):
         teams = Teams.objects.all()
@@ -20,12 +20,21 @@ class TeamsListView(APIView):
         request.data['user'] = request.user.id
         team_to_add = TeamSerializer(data=request.data)
         if team_to_add.is_valid():
-            team_to_add.save()
+            team = team_to_add.save()
+            self.validate_team(team)
             return Response(team_to_add.data, status=201)
         return Response(team_to_add.errors, status=422)
     
+    def validate_team(self, team):
+        if team.defenders.count() != 4:
+            raise ValidationError('You must select 4 defenders.')
+        if team.midfielders.count() != 3:
+            raise ValidationError('You must select 3 midfielders.')
+        if team.forwards.count() != 3:
+            raise ValidationError('You must select 3 forwards.')
+    
 class TeamsDetailView(APIView):
-    # permission_classes = [IsAuthenticated]
+    permission_classes = [IsAuthenticatedOrReadOnly]
 
     def get_object(self, team_id):
         try:
@@ -56,11 +65,23 @@ class TeamsDetailView(APIView):
         serialized_team = TeamSerializer(team, data=request.data, partial=True)
         
         if serialized_team.is_valid():
-            serialized_team.save()
-            populated_serializer = PopulatedTeamSerializer(team)
-            return Response(populated_serializer.data)
+            try:
+                self.validate_team(team)
+                serialized_team.save()
+                populated_serializer = PopulatedTeamSerializer(team)
+                return Response(populated_serializer.data)
+            except ValidationError as e:
+                return Response({'detail': str(e)}, status=400)
         
         return Response(serialized_team.errors, 422)
+    
+    def validate_team(self, team):
+        if team.defenders.count() != 4:
+            raise ValidationError('You must select 4 defenders.')
+        if team.midfielders.count() != 3:
+            raise ValidationError('You must select 3 midfielders.')
+        if team.forwards.count() != 3:
+            raise ValidationError('You must select 3 forwards.')
     
     def delete(self, request, team_id):
         team = self.get_object(team_id)
