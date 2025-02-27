@@ -1,4 +1,5 @@
 from django.db import models
+from django.core.exceptions import ValidationError
 from players.models import Players
 from users.models import User
 
@@ -11,7 +12,8 @@ class Teams(models.Model):
     forwards = models.ManyToManyField(to=Players, related_name='team_forwards')
     total_cost = models.IntegerField(blank=True, null=True)
     total_points = models.IntegerField(blank=True, null=True)
-    user = models.ForeignKey(to=User, on_delete=models.CASCADE, related_name='owner', blank=True, null=True)
+    user = models.ForeignKey(to=User, on_delete=models.CASCADE, related_name='own_team', blank=True, null=True)
 
     def __str__(self):
         return self.team_name
+    
