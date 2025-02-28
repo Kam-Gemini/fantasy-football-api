@@ -2,6 +2,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.exceptions import NotFound, ValidationError
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
+from .permissions import IsOwnerOrReadOnly
 from .models import Teams
 from players.models import Players
 
@@ -34,7 +35,7 @@ class TeamsListView(APIView):
             raise ValidationError('You must select 3 forwards.')
     
 class TeamsDetailView(APIView):
-    permission_classes = [IsAuthenticatedOrReadOnly]
+    permission_classes = [IsOwnerOrReadOnly]
 
     def get_object(self, team_id):
         try:
@@ -51,6 +52,7 @@ class TeamsDetailView(APIView):
 
     def put(self, request, team_id):
         team = self.get_object(team_id)
+        self.check_object_permissions(request, team)
         data = request.data
 
         if 'goalkeeper' in data:
@@ -85,5 +87,6 @@ class TeamsDetailView(APIView):
     
     def delete(self, request, team_id):
         team = self.get_object(team_id)
+        self.check_object_permissions(request, team)
         team.delete()
         return Response(status=204)
