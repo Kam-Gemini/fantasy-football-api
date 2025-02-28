@@ -438,5 +438,465 @@
             "pens_saved": 0,
             "points": 17
         }
+    },
+    {
+        "model": "players.players",
+        "pk": 22,
+        "fields": {
+            "image": "player_images/Emiliano_Mart\u00ednez.jpg",
+            "name": "Emiliano Mart\u00ednez",
+            "club": "Aston Villa",
+            "position": "Goalkeeper",
+            "price": 8,
+            "appearances": 28,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 3,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 73
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 23,
+        "fields": {
+            "image": "player_images/Robin_Olsen.jpg",
+            "name": "Robin Olsen",
+            "club": "Aston Villa",
+            "position": "Goalkeeper",
+            "price": 5,
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 1
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 24,
+        "fields": {
+            "image": "player_images/Matty_Cash.jpg",
+            "name": "Matty Cash",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 18,
+            "goals": 1,
+            "assists": 1,
+            "cleansheets": 2,
+            "yellow_cards": 5,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 41
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 25,
+        "fields": {
+            "image": "player_images/Ezri_Konsa.jpg",
+            "name": "Ezri Konsa",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 24,
+            "goals": 1,
+            "assists": 0,
+            "cleansheets": 2,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 52
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 26,
+        "fields": {
+            "image": "player_images/Tyrone_Mings.jpg",
+            "name": "Tyrone Mings",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 9,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 23
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 27,
+        "fields": {
+            "image": "player_images/Lucas_Digne.jpg",
+            "name": "Lucas Digne",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 7.5,
+            "appearances": 27,
+            "goals": 0,
+            "assists": 4,
+            "cleansheets": 1,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 69
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 28,
+        "fields": {
+            "image": "player_images/Pau_Torres.jpg",
+            "name": "Pau Torres",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 18,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 2,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 32
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 29,
+        "fields": {
+            "image": "player_images/Ian_Maatsen.jpg",
+            "name": "Ian Maatsen",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 22,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 24
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 30,
+        "fields": {
+            "image": "player_images/Lamare_Bogarde.jpg",
+            "name": "Lamare Bogarde",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 8,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 6
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 31,
+        "fields": {
+            "image": "player_images/Andr\u00e9s_Garc\u00eda.jpg",
+            "name": "Andr\u00e9s Garc\u00eda",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 5,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 6
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 32,
+        "fields": {
+            "image": "player_images/Axel_Disasi.jpg",
+            "name": "Axel Disasi",
+            "club": "Aston Villa",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 9,
+            "goals": 1,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 24
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 33,
+        "fields": {
+            "image": "player_images/John_McGinn.jpg",
+            "name": "John McGinn",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 9,
+            "appearances": 24,
+            "goals": 0,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 5,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 51
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 34,
+        "fields": {
+            "image": "player_images/Youri_Tielemans.jpg",
+            "name": "Youri Tielemans",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": 28,
+            "goals": 2,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 82
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 35,
+        "fields": {
+            "image": "player_images/Jacob_Ramsey.jpg",
+            "name": "Jacob Ramsey",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 8,
+            "appearances": 20,
+            "goals": 1,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 46
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 36,
+        "fields": {
+            "image": "player_images/Boubacar_Kamara.jpg",
+            "name": "Boubacar Kamara",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 16,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 29
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 37,
+        "fields": {
+            "image": "player_images/Leon_Bailey.jpg",
+            "name": "Leon Bailey",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 9,
+            "appearances": 22,
+            "goals": 1,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 45
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 38,
+        "fields": {
+            "image": "player_images/Ross_Barkley.jpg",
+            "name": "Ross Barkley",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 9,
+            "appearances": 16,
+            "goals": 3,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 40
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 39,
+        "fields": {
+            "image": "player_images/Amadou_Onana.jpg",
+            "name": "Amadou Onana",
+            "club": "Aston Villa",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": 17,
+            "goals": 2,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 41
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 40,
+        "fields": {
+            "image": "player_images/Ollie_Watkins.jpg",
+            "name": "Ollie Watkins",
+            "club": "Aston Villa",
+            "position": "Forward",
+            "price": 15,
+            "appearances": 28,
+            "goals": 12,
+            "assists": 6,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 138
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 41,
+        "fields": {
+            "image": "player_images/Morgan_Rogers.jpg",
+            "name": "Morgan Rogers",
+            "club": "Aston Villa",
+            "position": "Forward",
+            "price": 10,
+            "appearances": 27,
+            "goals": 7,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 8,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 110
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 42,
+        "fields": {
+            "image": "player_images/Donyell_Malen.jpg",
+            "name": "Donyell Malen",
+            "club": "Aston Villa",
+            "position": "Forward",
+            "price": 8,
+            "appearances": 5,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 6
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 43,
+        "fields": {
+            "image": "player_images/Marcus_Rashford.jpg",
+            "name": "Marcus Rashford",
+            "club": "Aston Villa",
+            "position": "Forward",
+            "price": 10,
+            "appearances": 19,
+            "goals": 4,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 73
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 44,
+        "fields": {
+            "image": "player_images/Marco_Asensio.jpg",
+            "name": "Marco Asensio",
+            "club": "Aston Villa",
+            "position": "Forward",
+            "price": 9,
+            "appearances": 4,
+            "goals": 2,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 19
+        }
     }
 ]

@@ -2,7 +2,7 @@ from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.exceptions import NotFound, ValidationError
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
-from teams.permissions import IsOwnerOrReadOnly
+from users.middleware.permissions import IsOwnerOrReadOnly
 from .models import Leagues
 from teams.models import Teams
 
@@ -27,7 +27,7 @@ class LeaguesListView(APIView):
         return Response(new_league.errors, status=422)
     
 class LeaguesDetailView(APIView):
-    permission_classes = [IsOwnerOrReadOnly]
+    permission_classes = [IsAuthenticatedOrReadOnly, IsOwnerOrReadOnly]
 
     def get_object(self, league_id):
         try:
@@ -44,7 +44,6 @@ class LeaguesDetailView(APIView):
 
     def put(self, request, league_id):
         league = self.get_object(league_id)
-        self.check_object_permissions(request, league)
         data = request.data
 
         if 'team' in data:

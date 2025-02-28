@@ -12,6 +12,7 @@ djangorestframework = "*"
 pillow = "*"
 jwt = "*"
 django-environ = "*"
+django-cors-headers = "*"
 
 [dev-packages]
 
