@@ -441,7 +441,7 @@
     },
     {
         "model": "players.players",
-        "pk": 22,
+        "pk": 23,
         "fields": {
             "image": "player_images/Emiliano_Mart\u00ednez.jpg",
             "name": "Emiliano Mart\u00ednez",
@@ -461,7 +461,7 @@
     },
     {
         "model": "players.players",
-        "pk": 23,
+        "pk": 24,
         "fields": {
             "image": "player_images/Robin_Olsen.jpg",
             "name": "Robin Olsen",
@@ -481,7 +481,7 @@
     },
     {
         "model": "players.players",
-        "pk": 24,
+        "pk": 25,
         "fields": {
             "image": "player_images/Matty_Cash.jpg",
             "name": "Matty Cash",
@@ -501,7 +501,7 @@
     },
     {
         "model": "players.players",
-        "pk": 25,
+        "pk": 26,
         "fields": {
             "image": "player_images/Ezri_Konsa.jpg",
             "name": "Ezri Konsa",
@@ -521,7 +521,7 @@
     },
     {
         "model": "players.players",
-        "pk": 26,
+        "pk": 27,
         "fields": {
             "image": "player_images/Tyrone_Mings.jpg",
             "name": "Tyrone Mings",
@@ -541,7 +541,7 @@
     },
     {
         "model": "players.players",
-        "pk": 27,
+        "pk": 28,
         "fields": {
             "image": "player_images/Lucas_Digne.jpg",
             "name": "Lucas Digne",
@@ -561,7 +561,7 @@
     },
     {
         "model": "players.players",
-        "pk": 28,
+        "pk": 29,
         "fields": {
             "image": "player_images/Pau_Torres.jpg",
             "name": "Pau Torres",
@@ -581,7 +581,7 @@
     },
     {
         "model": "players.players",
-        "pk": 29,
+        "pk": 30,
         "fields": {
             "image": "player_images/Ian_Maatsen.jpg",
             "name": "Ian Maatsen",
@@ -601,7 +601,7 @@
     },
     {
         "model": "players.players",
-        "pk": 30,
+        "pk": 31,
         "fields": {
             "image": "player_images/Lamare_Bogarde.jpg",
             "name": "Lamare Bogarde",
@@ -621,7 +621,7 @@
     },
     {
         "model": "players.players",
-        "pk": 31,
+        "pk": 32,
         "fields": {
             "image": "player_images/Andr\u00e9s_Garc\u00eda.jpg",
             "name": "Andr\u00e9s Garc\u00eda",
@@ -641,7 +641,7 @@
     },
     {
         "model": "players.players",
-        "pk": 32,
+        "pk": 33,
         "fields": {
             "image": "player_images/Axel_Disasi.jpg",
             "name": "Axel Disasi",
@@ -661,7 +661,7 @@
     },
     {
         "model": "players.players",
-        "pk": 33,
+        "pk": 34,
         "fields": {
             "image": "player_images/John_McGinn.jpg",
             "name": "John McGinn",
@@ -681,7 +681,7 @@
     },
     {
         "model": "players.players",
-        "pk": 34,
+        "pk": 35,
         "fields": {
             "image": "player_images/Youri_Tielemans.jpg",
             "name": "Youri Tielemans",
@@ -701,7 +701,7 @@
     },
     {
         "model": "players.players",
-        "pk": 35,
+        "pk": 36,
         "fields": {
             "image": "player_images/Jacob_Ramsey.jpg",
             "name": "Jacob Ramsey",
@@ -721,7 +721,7 @@
     },
     {
         "model": "players.players",
-        "pk": 36,
+        "pk": 37,
         "fields": {
             "image": "player_images/Boubacar_Kamara.jpg",
             "name": "Boubacar Kamara",
@@ -741,7 +741,7 @@
     },
     {
         "model": "players.players",
-        "pk": 37,
+        "pk": 38,
         "fields": {
             "image": "player_images/Leon_Bailey.jpg",
             "name": "Leon Bailey",
@@ -761,7 +761,7 @@
     },
     {
         "model": "players.players",
-        "pk": 38,
+        "pk": 39,
         "fields": {
             "image": "player_images/Ross_Barkley.jpg",
             "name": "Ross Barkley",
@@ -781,7 +781,7 @@
     },
     {
         "model": "players.players",
-        "pk": 39,
+        "pk": 40,
         "fields": {
             "image": "player_images/Amadou_Onana.jpg",
             "name": "Amadou Onana",
@@ -801,7 +801,7 @@
     },
     {
         "model": "players.players",
-        "pk": 40,
+        "pk": 41,
         "fields": {
             "image": "player_images/Ollie_Watkins.jpg",
             "name": "Ollie Watkins",
@@ -821,7 +821,7 @@
     },
     {
         "model": "players.players",
-        "pk": 41,
+        "pk": 42,
         "fields": {
             "image": "player_images/Morgan_Rogers.jpg",
             "name": "Morgan Rogers",
@@ -841,7 +841,7 @@
     },
     {
         "model": "players.players",
-        "pk": 42,
+        "pk": 43,
         "fields": {
             "image": "player_images/Donyell_Malen.jpg",
             "name": "Donyell Malen",
@@ -861,7 +861,7 @@
     },
     {
         "model": "players.players",
-        "pk": 43,
+        "pk": 44,
         "fields": {
             "image": "player_images/Marcus_Rashford.jpg",
             "name": "Marcus Rashford",
@@ -881,7 +881,7 @@
     },
     {
         "model": "players.players",
-        "pk": 44,
+        "pk": 45,
         "fields": {
             "image": "player_images/Marco_Asensio.jpg",
             "name": "Marco Asensio",
@@ -897,6 +897,1926 @@
             "own_goals": 0,
             "pens_saved": 0,
             "points": 19
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 46,
+        "fields": {
+            "image": "player_images/Milos_Kerkez.jpg",
+            "name": "Milos Kerkez",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 27,
+            "goals": 2,
+            "assists": 4,
+            "cleansheets": 6,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 97
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 47,
+        "fields": {
+            "image": "player_images/Adam_Smith.jpg",
+            "name": "Adam Smith",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 17,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 34
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 48,
+        "fields": {
+            "image": "player_images/James_Hill.jpg",
+            "name": "James Hill",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 7,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 15
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 49,
+        "fields": {
+            "image": "player_images/Marcos_Senesi.jpg",
+            "name": "Marcos Senesi",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 11,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 21
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 50,
+        "fields": {
+            "image": "player_images/Illia_Zabarnyi.jpg",
+            "name": "Illia Zabarnyi",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 26,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 6,
+            "yellow_cards": 3,
+            "red_cards": 1,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 64
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 51,
+        "fields": {
+            "image": "player_images/Dean_Huijsen.jpg",
+            "name": "Dean Huijsen",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 21,
+            "goals": 2,
+            "assists": 0,
+            "cleansheets": 5,
+            "yellow_cards": 5,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 70
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 52,
+        "fields": {
+            "image": "player_images/Juli\u00e1n_Araujo.jpg",
+            "name": "Juli\u00e1n Araujo",
+            "club": "Bournemouth",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 8,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 8
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 53,
+        "fields": {
+            "image": "player_images/Lewis_Cook.jpg",
+            "name": "Lewis Cook",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 26,
+            "goals": 1,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 64
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 54,
+        "fields": {
+            "image": "player_images/David_Brooks.jpg",
+            "name": "David Brooks",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 20,
+            "goals": 2,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 41
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 55,
+        "fields": {
+            "image": "player_images/Ryan_Christie.jpg",
+            "name": "Ryan Christie",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 26,
+            "goals": 2,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 9,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 71
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 56,
+        "fields": {
+            "image": "player_images/Alex_Scott.jpg",
+            "name": "Alex Scott",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 5,
+            "appearances": 11,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 14
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 57,
+        "fields": {
+            "image": "player_images/Marcus_Tavernier.jpg",
+            "name": "Marcus Tavernier",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 20,
+            "goals": 2,
+            "assists": 5,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 64
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 58,
+        "fields": {
+            "image": "player_images/Tyler_Adams.jpg",
+            "name": "Tyler Adams",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 17,
+            "goals": 0,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 37
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 59,
+        "fields": {
+            "image": "player_images/Ben_Winterburn.jpg",
+            "name": "Ben Winterburn",
+            "club": "Bournemouth",
+            "position": "Midfielder",
+            "price": 5,
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 2
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 60,
+        "fields": {
+            "image": "player_images/Dango_Ouattara.jpg",
+            "name": "Dango Ouattara",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 7,
+            "appearances": 24,
+            "goals": 7,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 97
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 61,
+        "fields": {
+            "image": "player_images/Justin_Kluivert.jpg",
+            "name": "Justin Kluivert",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 11,
+            "appearances": 26,
+            "goals": 12,
+            "assists": 5,
+            "cleansheets": 0,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 140
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 62,
+        "fields": {
+            "image": "player_images/Antoine_Semenyo.jpg",
+            "name": "Antoine Semenyo",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 10,
+            "appearances": 26,
+            "goals": 7,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 7,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 109
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 63,
+        "fields": {
+            "image": "player_images/Luis_Sinisterra.jpg",
+            "name": "Luis Sinisterra",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 7,
+            "appearances": 10,
+            "goals": 1,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 21
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 64,
+        "fields": {
+            "image": "player_images/Enes_\u00dcnal.jpg",
+            "name": "Enes \u00dcnal",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 6,
+            "appearances": 17,
+            "goals": 2,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 32
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 65,
+        "fields": {
+            "image": "player_images/Daniel_Jebbison.jpg",
+            "name": "Daniel Jebbison",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 5,
+            "appearances": 8,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 7
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 66,
+        "fields": {
+            "image": "player_images/Remy_Rees-Dottin.jpg",
+            "name": "Remy Rees-Dottin",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 5,
+            "appearances": 1,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 1
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 67,
+        "fields": {
+            "image": "player_images/Zain_Silcott-Duberry.jpg",
+            "name": "Zain Silcott-Duberry",
+            "club": "Bournemouth",
+            "position": "Forward",
+            "price": 5,
+            "appearances": 1,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 0
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 68,
+        "fields": {
+            "image": "player_images/Mark_Flekken.jpg",
+            "name": "Mark Flekken",
+            "club": "Brentford",
+            "position": "Goalkeeper",
+            "price": 6,
+            "appearances": 26,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 4,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 90
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 69,
+        "fields": {
+            "image": "player_images/H\u00e1kon_Valdimarsson.jpg",
+            "name": "H\u00e1kon Valdimarsson",
+            "club": "Brentford",
+            "position": "Goalkeeper",
+            "price": 5,
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 2
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 70,
+        "fields": {
+            "image": "player_images/Nathan_Collins.jpg",
+            "name": "Nathan Collins",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 27,
+            "goals": 2,
+            "assists": 1,
+            "cleansheets": 5,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 87
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 71,
+        "fields": {
+            "image": "player_images/Rico_Henry.jpg",
+            "name": "Rico Henry",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 1,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 1
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 72,
+        "fields": {
+            "image": "player_images/Ethan_Pinnock.jpg",
+            "name": "Ethan Pinnock",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 19,
+            "goals": 2,
+            "assists": 0,
+            "cleansheets": 2,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 42
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 73,
+        "fields": {
+            "image": "player_images/Ben_Mee.jpg",
+            "name": "Ben Mee",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 6,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 8
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 74,
+        "fields": {
+            "image": "player_images/Kristoffer_Ajer.jpg",
+            "name": "Kristoffer Ajer",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 14,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 25
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 75,
+        "fields": {
+            "image": "player_images/Kim_Ji-Soo.jpg",
+            "name": "Kim Ji-Soo",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 2
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 76,
+        "fields": {
+            "image": "player_images/Sepp_van_den_Berg.jpg",
+            "name": "Sepp van den Berg",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 21,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 2,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 37
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 77,
+        "fields": {
+            "image": "player_images/Michael_Kayode.jpg",
+            "name": "Michael Kayode",
+            "club": "Brentford",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 4,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 4
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 78,
+        "fields": {
+            "image": "player_images/Yehor_Yarmoliuk.jpg",
+            "name": "Yehor Yarmoliuk",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 21,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 25
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 79,
+        "fields": {
+            "image": "player_images/Christian_N\u00f8rgaard.jpg",
+            "name": "Christian N\u00f8rgaard",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 23,
+            "goals": 3,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 1,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 61
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 80,
+        "fields": {
+            "image": "player_images/Mathias_Jensen.jpg",
+            "name": "Mathias Jensen",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 15,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 27
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 81,
+        "fields": {
+            "image": "player_images/Kevin_Schade.jpg",
+            "name": "Kevin Schade",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 8,
+            "appearances": 27,
+            "goals": 7,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 100
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 82,
+        "fields": {
+            "image": "player_images/Yoane_Wissa.jpg",
+            "name": "Yoane Wissa",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": 24,
+            "goals": 13,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 122
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 83,
+        "fields": {
+            "image": "player_images/Bryan_Mbeumo.jpg",
+            "name": "Bryan Mbeumo",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 12,
+            "appearances": 27,
+            "goals": 15,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 171
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 84,
+        "fields": {
+            "image": "player_images/Mikkel_Damsgaard.jpg",
+            "name": "Mikkel Damsgaard",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 9,
+            "appearances": 27,
+            "goals": 2,
+            "assists": 10,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 104
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 85,
+        "fields": {
+            "image": "player_images/Vitaly_Janelt.jpg",
+            "name": "Vitaly Janelt",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 26,
+            "goals": 1,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 66
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 86,
+        "fields": {
+            "image": "player_images/Yunus_Konak.jpg",
+            "name": "Yunus Konak",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 5,
+            "appearances": 6,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 6
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 87,
+        "fields": {
+            "image": "player_images/Paris_Maghoma.jpg",
+            "name": "Paris Maghoma",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 5,
+            "appearances": 7,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 7
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 88,
+        "fields": {
+            "image": "player_images/F\u00e1bio_Carvalho.jpg",
+            "name": "F\u00e1bio Carvalho",
+            "club": "Brentford",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 19,
+            "goals": 2,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 35
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 89,
+        "fields": {
+            "image": "player_images/Keane_Lewis-Potter.jpg",
+            "name": "Keane Lewis-Potter",
+            "club": "Brentford",
+            "position": "Forward",
+            "price": 7,
+            "appearances": 27,
+            "goals": 1,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 71
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 90,
+        "fields": {
+            "image": "player_images/Igor_Thiago.jpg",
+            "name": "Igor Thiago",
+            "club": "Brentford",
+            "position": "Forward",
+            "price": 7,
+            "appearances": 4,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 5
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 91,
+        "fields": {
+            "image": "player_images/Bart_Verbruggen.jpg",
+            "name": "Bart Verbruggen",
+            "club": "Brighton and Hove Albion",
+            "position": "Goalkeeper",
+            "price": 6,
+            "appearances": 25,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 6,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 80
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 92,
+        "fields": {
+            "image": "player_images/Jason_Steele.jpg",
+            "name": "Jason Steele",
+            "club": "Brighton and Hove Albion",
+            "position": "Goalkeeper",
+            "price": 6,
+            "appearances": 2,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 9
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 93,
+        "fields": {
+            "image": "player_images/Tariq_Lamptey.jpg",
+            "name": "Tariq Lamptey",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 13,
+            "goals": 2,
+            "assists": 2,
+            "cleansheets": 1,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 40
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 94,
+        "fields": {
+            "image": "player_images/Igor_Julio.jpg",
+            "name": "Igor Julio",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 12,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 17
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 95,
+        "fields": {
+            "image": "player_images/Adam_Webster.jpg",
+            "name": "Adam Webster",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 9,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 2,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 23
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 96,
+        "fields": {
+            "image": "player_images/Lewis_Dunk.jpg",
+            "name": "Lewis Dunk",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 19,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 3,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 38
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 97,
+        "fields": {
+            "image": "player_images/Jan_Paul_van_Hecke.jpg",
+            "name": "Jan Paul van Hecke",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 25,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 6,
+            "yellow_cards": 5,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 67
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 98,
+        "fields": {
+            "image": "player_images/Pervis_Estupi\u00f1\u00e1n.jpg",
+            "name": "Pervis Estupi\u00f1\u00e1n",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 20,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 2,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 42
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 99,
+        "fields": {
+            "image": "player_images/Jo\u00ebl_Veltman.jpg",
+            "name": "Jo\u00ebl Veltman",
+            "club": "Brighton and Hove Albion",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 19,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 5,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 58
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 100,
+        "fields": {
+            "image": "player_images/James_Milner.jpg",
+            "name": "James Milner",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 3,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 5
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 101,
+        "fields": {
+            "image": "player_images/Solly_March.jpg",
+            "name": "Solly March",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 3,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 2
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 102,
+        "fields": {
+            "image": "player_images/Kaoru_Mitoma.jpg",
+            "name": "Kaoru Mitoma",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 9,
+            "appearances": 27,
+            "goals": 7,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 115
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 103,
+        "fields": {
+            "image": "player_images/Yasin_Ayari.jpg",
+            "name": "Yasin Ayari",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 23,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 41
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 104,
+        "fields": {
+            "image": "player_images/Carlos_Baleba.jpg",
+            "name": "Carlos Baleba",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 8,
+            "appearances": 23,
+            "goals": 2,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 5,
+            "red_cards": 1,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 58
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 105,
+        "fields": {
+            "image": "player_images/Jack_Hinshelwood.jpg",
+            "name": "Jack Hinshelwood",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 15,
+            "goals": 2,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 43
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 106,
+        "fields": {
+            "image": "player_images/Mats_Wieffer.jpg",
+            "name": "Mats Wieffer",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 15,
+            "goals": 1,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 29
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 107,
+        "fields": {
+            "image": "player_images/Brajan_Gruda.jpg",
+            "name": "Brajan Gruda",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 12,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 18
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 108,
+        "fields": {
+            "image": "player_images/Matt_O'Riley.jpg",
+            "name": "Matt O'Riley",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 12,
+            "goals": 1,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 25
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 109,
+        "fields": {
+            "image": "player_images/Ferdi_Kadioglu.jpg",
+            "name": "Ferdi Kadioglu",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 6,
+            "appearances": 6,
+            "goals": 1,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 19
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 110,
+        "fields": {
+            "image": "player_images/Diego_G\u00f3mez.jpg",
+            "name": "Diego G\u00f3mez",
+            "club": "Brighton and Hove Albion",
+            "position": "Midfielder",
+            "price": 5,
+            "appearances": 5,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 6
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 111,
+        "fields": {
+            "image": "player_images/Jo\u00e3o_Pedro.jpg",
+            "name": "Jo\u00e3o Pedro",
+            "club": "Brighton and Hove Albion",
+            "position": "Forward",
+            "price": 10,
+            "appearances": 21,
+            "goals": 7,
+            "assists": 6,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 101
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 112,
+        "fields": {
+            "image": "player_images/Danny_Welbeck.jpg",
+            "name": "Danny Welbeck",
+            "club": "Brighton and Hove Albion",
+            "position": "Forward",
+            "price": 9,
+            "appearances": 20,
+            "goals": 7,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 90
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 113,
+        "fields": {
+            "image": "player_images/Simon_Adingra.jpg",
+            "name": "Simon Adingra",
+            "club": "Brighton and Hove Albion",
+            "position": "Forward",
+            "price": 8,
+            "appearances": 18,
+            "goals": 2,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 37
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 114,
+        "fields": {
+            "image": "player_images/Yankuba_Minteh.jpg",
+            "name": "Yankuba Minteh",
+            "club": "Brighton and Hove Albion",
+            "position": "Forward",
+            "price": 7,
+            "appearances": 22,
+            "goals": 5,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 72
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 115,
+        "fields": {
+            "image": "player_images/Georginio_Rutter.jpg",
+            "name": "Georginio Rutter",
+            "club": "Brighton and Hove Albion",
+            "position": "Forward",
+            "price": 9,
+            "appearances": 26,
+            "goals": 5,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 88
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 116,
+        "fields": {
+            "image": "player_images/Robert_S\u00e1nchez.jpg",
+            "name": "Robert S\u00e1nchez",
+            "club": "Chelsea",
+            "position": "Goalkeeper",
+            "price": 7,
+            "appearances": 21,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 4,
+            "yellow_cards": 5,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 74
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 117,
+        "fields": {
+            "image": "player_images/Filip_J\u00f8rgensen.jpg",
+            "name": "Filip J\u00f8rgensen",
+            "club": "Chelsea",
+            "position": "Goalkeeper",
+            "price": 5,
+            "appearances": 6,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 18
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 118,
+        "fields": {
+            "image": "player_images/Marc_Cucurella.jpg",
+            "name": "Marc Cucurella",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 8,
+            "appearances": 25,
+            "goals": 3,
+            "assists": 1,
+            "cleansheets": 4,
+            "yellow_cards": 6,
+            "red_cards": 1,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 76
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 119,
+        "fields": {
+            "image": "player_images/Beno\u00eet_Badiashile.jpg",
+            "name": "Beno\u00eet Badiashile",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 4,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 5
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 120,
+        "fields": {
+            "image": "player_images/Trevoh_Chalobah.jpg",
+            "name": "Trevoh Chalobah",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 17,
+            "goals": 3,
+            "assists": 1,
+            "cleansheets": 2,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 66
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 121,
+        "fields": {
+            "image": "player_images/Reece_James.jpg",
+            "name": "Reece James",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 10,
+            "goals": 1,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 22
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 122,
+        "fields": {
+            "image": "player_images/Levi_Colwill.jpg",
+            "name": "Levi Colwill",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 8,
+            "appearances": 25,
+            "goals": 1,
+            "assists": 1,
+            "cleansheets": 5,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 65
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 123,
+        "fields": {
+            "image": "player_images/Malo_Gusto.jpg",
+            "name": "Malo Gusto",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 7,
+            "appearances": 23,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 2,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 40
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 124,
+        "fields": {
+            "image": "player_images/Wesley_Fofana.jpg",
+            "name": "Wesley Fofana",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 8,
+            "appearances": 12,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 1,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 19
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 125,
+        "fields": {
+            "image": "player_images/Josh_Acheampong.jpg",
+            "name": "Josh Acheampong",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 5,
+            "appearances": 3,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 4
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 126,
+        "fields": {
+            "image": "player_images/Tosin_Adarabioyo.jpg",
+            "name": "Tosin Adarabioyo",
+            "club": "Chelsea",
+            "position": "Defender",
+            "price": 6,
+            "appearances": 14,
+            "goals": 1,
+            "assists": 1,
+            "cleansheets": 3,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 42
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 127,
+        "fields": {
+            "image": "player_images/Enzo_Fern\u00e1ndez.jpg",
+            "name": "Enzo Fern\u00e1ndez",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 8,
+            "appearances": 25,
+            "goals": 4,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 85
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 128,
+        "fields": {
+            "image": "player_images/Mykhailo_Mudryk.jpg",
+            "name": "Mykhailo Mudryk",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 7,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 7
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 129,
+        "fields": {
+            "image": "player_images/Cole_Palmer.jpg",
+            "name": "Cole Palmer",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 17,
+            "appearances": 27,
+            "goals": 14,
+            "assists": 6,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 180
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 130,
+        "fields": {
+            "image": "player_images/Mois\u00e9s_Caicedo.jpg",
+            "name": "Mois\u00e9s Caicedo",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 10,
+            "appearances": 27,
+            "goals": 1,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 9,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 67
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 131,
+        "fields": {
+            "image": "player_images/Rom\u00e9o_Lavia.jpg",
+            "name": "Rom\u00e9o Lavia",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 8,
+            "appearances": 10,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 4,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 15
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 132,
+        "fields": {
+            "image": "player_images/Kiernan_Dewsbury-Hall.jpg",
+            "name": "Kiernan Dewsbury-Hall",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 7,
+            "appearances": 8,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 13
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 133,
+        "fields": {
+            "image": "player_images/Mathis_Amougou.jpg",
+            "name": "Mathis Amougou",
+            "club": "Chelsea",
+            "position": "Midfielder",
+            "price": 5,
+            "appearances": 1,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 1
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 134,
+        "fields": {
+            "image": "player_images/Noni_Madueke.jpg",
+            "name": "Noni Madueke",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 8,
+            "appearances": 23,
+            "goals": 7,
+            "assists": 3,
+            "cleansheets": 0,
+            "yellow_cards": 3,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 100
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 135,
+        "fields": {
+            "image": "player_images/Nicolas_Jackson.jpg",
+            "name": "Nicolas Jackson",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 13,
+            "appearances": 23,
+            "goals": 9,
+            "assists": 5,
+            "cleansheets": 0,
+            "yellow_cards": 5,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 108
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 136,
+        "fields": {
+            "image": "player_images/Christopher_Nkunku.jpg",
+            "name": "Christopher Nkunku",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 10,
+            "appearances": 23,
+            "goals": 3,
+            "assists": 2,
+            "cleansheets": 0,
+            "yellow_cards": 2,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 53
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 137,
+        "fields": {
+            "image": "player_images/Tyrique_George.jpg",
+            "name": "Tyrique George",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 5,
+            "appearances": 3,
+            "goals": 0,
+            "assists": 1,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 5
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 138,
+        "fields": {
+            "image": "player_images/Marc_Guiu.jpg",
+            "name": "Marc Guiu",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 5,
+            "appearances": 3,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 3
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 139,
+        "fields": {
+            "image": "player_images/Pedro_Neto.jpg",
+            "name": "Pedro Neto",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 9,
+            "appearances": 24,
+            "goals": 3,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 6,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 65
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 140,
+        "fields": {
+            "image": "player_images/Jadon_Sancho.jpg",
+            "name": "Jadon Sancho",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 8,
+            "appearances": 21,
+            "goals": 2,
+            "assists": 4,
+            "cleansheets": 0,
+            "yellow_cards": 1,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 63
+        }
+    },
+    {
+        "model": "players.players",
+        "pk": 141,
+        "fields": {
+            "image": "player_images/Shumaira_Mheuka.jpg",
+            "name": "Shumaira Mheuka",
+            "club": "Chelsea",
+            "position": "Forward",
+            "price": 5,
+            "appearances": 1,
+            "goals": 0,
+            "assists": 0,
+            "cleansheets": 0,
+            "yellow_cards": 0,
+            "red_cards": 0,
+            "own_goals": 0,
+            "pens_saved": 0,
+            "points": 1
         }
     }
 ]
