@@ -1,6 +1,7 @@
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from rest_framework.exceptions import NotFound, NotAuthenticated, ValidationError
+from users.middleware.permissions import IsOwnerOrReadOnly
 from django.contrib.auth import get_user_model
 from .serializers.common import UserSerializer
 import jwt
@@ -49,3 +50,14 @@ class LoginView(APIView):
         except Exception as e:
             print(e)
             return Response('Something went wrong', 500)
+
+class UserProfileView(APIView):
+    permission_classes = [IsOwnerOrReadOnly]
+
+    def put(self, request):
+        user = request.user
+        serialized_user = UserSerializer(user, data=request.data, partial=True)
+        if serialized_user.is_valid():
+            serialized_user.save()
+            return Response(serialized_user.data, 200)
+        return Response(serialized_user.errors, 422)

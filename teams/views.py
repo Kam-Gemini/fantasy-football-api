@@ -22,17 +22,8 @@ class TeamsListView(APIView):
         team_to_add = TeamSerializer(data=request.data)
         if team_to_add.is_valid():
             team = team_to_add.save()
-            self.validate_team(team)
             return Response(team_to_add.data, status=201)
         return Response(team_to_add.errors, status=422)
-    
-    def validate_team(self, team):
-        if team.defenders.count() != 4:
-            raise ValidationError('You must select 4 defenders.')
-        if team.midfielders.count() != 3:
-            raise ValidationError('You must select 3 midfielders.')
-        if team.forwards.count() != 3:
-            raise ValidationError('You must select 3 forwards.')
     
 class TeamsDetailView(APIView):
     permission_classes = [IsOwnerOrReadOnly]
