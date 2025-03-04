@@ -3,7 +3,7 @@
         "model": "players.players",
         "pk": 1,
         "fields": {
-            "image": "player_images/David_Raya.jpg",
+            "upload_to": "player_images/David_Raya.jpg",
             "name": "David Raya",
             "club": "Arsenal",
             "position": "Goalkeeper",
@@ -23,7 +23,7 @@
         "model": "players.players",
         "pk": 2,
         "fields": {
-            "image": "player_images/William_Saliba.jpg",
+            "upload_to": "player_images/William_Saliba.jpg",
             "name": "William Saliba",
             "club": "Arsenal",
             "position": "Defender",
@@ -43,7 +43,7 @@
         "model": "players.players",
         "pk": 3,
         "fields": {
-            "image": "player_images/Kieran_Tierney.jpg",
+            "upload_to": "player_images/Kieran_Tierney.jpg",
             "name": "Kieran Tierney",
             "club": "Arsenal",
             "position": "Defender",
@@ -63,7 +63,7 @@
         "model": "players.players",
         "pk": 4,
         "fields": {
-            "image": "player_images/Ben_White.jpg",
+            "upload_to": "player_images/Ben_White.jpg",
             "name": "Ben White",
             "club": "Arsenal",
             "position": "Defender",
@@ -83,7 +83,7 @@
         "model": "players.players",
         "pk": 5,
         "fields": {
-            "image": "player_images/Gabriel_Magalh\u00e3es.jpg",
+            "upload_to": "player_images/Gabriel_Magalh\u00e3es.jpg",
             "name": "Gabriel Magalh\u00e3es",
             "club": "Arsenal",
             "position": "Defender",
@@ -103,7 +103,7 @@
         "model": "players.players",
         "pk": 6,
         "fields": {
-            "image": "player_images/Jurri\u00ebn_Timber.jpg",
+            "upload_to": "player_images/Jurri\u00ebn_Timber.jpg",
             "name": "Jurri\u00ebn Timber",
             "club": "Arsenal",
             "position": "Defender",
@@ -123,7 +123,7 @@
         "model": "players.players",
         "pk": 7,
         "fields": {
-            "image": "player_images/Jakub_Kiwior.jpg",
+            "upload_to": "player_images/Jakub_Kiwior.jpg",
             "name": "Jakub Kiwior",
             "club": "Arsenal",
             "position": "Defender",
@@ -143,7 +143,7 @@
         "model": "players.players",
         "pk": 8,
         "fields": {
-            "image": "player_images/Takehiro_Tomiyasu.jpg",
+            "upload_to": "player_images/Takehiro_Tomiyasu.jpg",
             "name": "Takehiro Tomiyasu",
             "club": "Arsenal",
             "position": "Defender",
@@ -163,7 +163,7 @@
         "model": "players.players",
         "pk": 9,
         "fields": {
-            "image": "player_images/Oleksandr_Zinchenko.jpg",
+            "upload_to": "player_images/Oleksandr_Zinchenko.jpg",
             "name": "Oleksandr Zinchenko",
             "club": "Arsenal",
             "position": "Defender",
@@ -183,7 +183,7 @@
         "model": "players.players",
         "pk": 10,
         "fields": {
-            "image": "player_images/Riccardo_Calafiori.jpg",
+            "upload_to": "player_images/Riccardo_Calafiori.jpg",
             "name": "Riccardo Calafiori",
             "club": "Arsenal",
             "position": "Defender",
@@ -203,7 +203,7 @@
         "model": "players.players",
         "pk": 11,
         "fields": {
-            "image": "player_images/Thomas_Partey.jpg",
+            "upload_to": "player_images/Thomas_Partey.jpg",
             "name": "Thomas Partey",
             "club": "Arsenal",
             "position": "Midfielder",
@@ -223,7 +223,7 @@
         "model": "players.players",
         "pk": 12,
         "fields": {
-            "image": "player_images/Martin_\u00d8degaard.jpg",
+            "upload_to": "player_images/Martin_\u00d8degaard.jpg",
             "name": "Martin \u00d8degaard",
             "club": "Arsenal",
             "position": "Midfielder",
@@ -243,7 +243,7 @@
         "model": "players.players",
         "pk": 13,
         "fields": {
-            "image": "player_images/Declan_Rice.jpg",
+            "upload_to": "player_images/Declan_Rice.jpg",
             "name": "Declan Rice",
             "club": "Arsenal",
             "position": "Midfielder",
@@ -263,7 +263,7 @@
         "model": "players.players",
         "pk": 14,
         "fields": {
-            "image": "player_images/Myles_Lewis-Skelly.jpg",
+            "upload_to": "player_images/Myles_Lewis-Skelly.jpg",
             "name": "Myles Lewis-Skelly",
             "club": "Arsenal",
             "position": "Midfielder",
@@ -283,7 +283,7 @@
         "model": "players.players",
         "pk": 15,
         "fields": {
-            "image": "player_images/Ethan_Nwaneri.jpg",
+            "upload_to": "player_images/Ethan_Nwaneri.jpg",
             "name": "Ethan Nwaneri",
             "club": "Arsenal",
             "position": "Midfielder",
@@ -303,7 +303,7 @@
         "model": "players.players",
         "pk": 16,
         "fields": {
-            "image": "player_images/Mikel_Merino.jpg",
+            "upload_to": "player_images/Mikel_Merino.jpg",
             "name": "Mikel Merino",
             "club": "Arsenal",
             "position": "Midfielder",
@@ -323,7 +323,7 @@
         "model": "players.players",
         "pk": 17,
         "fields": {
-            "image": "player_images/Bukayo_Saka.jpg",
+            "upload_to": "player_images/Bukayo_Saka.jpg",
             "name": "Bukayo Saka",
             "club": "Arsenal",
             "position": "Forward",
@@ -343,7 +343,7 @@
         "model": "players.players",
         "pk": 18,
         "fields": {
-            "image": "player_images/Kai_Havertz.jpg",
+            "upload_to": "player_images/Kai_Havertz.jpg",
             "name": "Kai Havertz",
             "club": "Arsenal",
             "position": "Forward",
@@ -363,7 +363,7 @@
         "model": "players.players",
         "pk": 19,
         "fields": {
-            "image": "player_images/Gabriel_Jesus.jpg",
+            "upload_to": "player_images/Gabriel_Jesus.jpg",
             "name": "Gabriel Jesus",
             "club": "Arsenal",
             "position": "Forward",
@@ -383,7 +383,7 @@
         "model": "players.players",
         "pk": 20,
         "fields": {
-            "image": "player_images/Gabriel_Martinelli.jpg",
+            "upload_to": "player_images/Gabriel_Martinelli.jpg",
             "name": "Gabriel Martinelli",
             "club": "Arsenal",
             "position": "Forward",
@@ -403,7 +403,7 @@
         "model": "players.players",
         "pk": 21,
         "fields": {
-            "image": "player_images/Leandro_Trossard.jpg",
+            "upload_to": "player_images/Leandro_Trossard.jpg",
             "name": "Leandro Trossard",
             "club": "Arsenal",
             "position": "Forward",
@@ -423,7 +423,7 @@
         "model": "players.players",
         "pk": 22,
         "fields": {
-            "image": "player_images/Raheem_Sterling.jpg",
+            "upload_to": "player_images/Raheem_Sterling.jpg",
             "name": "Raheem Sterling",
             "club": "Arsenal",
             "position": "Forward",
@@ -443,7 +443,7 @@
         "model": "players.players",
         "pk": 23,
         "fields": {
-            "image": "player_images/Emiliano_Mart\u00ednez.jpg",
+            "upload_to": "player_images/Emiliano_Mart\u00ednez.jpg",
             "name": "Emiliano Mart\u00ednez",
             "club": "Aston Villa",
             "position": "Goalkeeper",
@@ -463,7 +463,7 @@
         "model": "players.players",
         "pk": 24,
         "fields": {
-            "image": "player_images/Robin_Olsen.jpg",
+            "upload_to": "player_images/Robin_Olsen.jpg",
             "name": "Robin Olsen",
             "club": "Aston Villa",
             "position": "Goalkeeper",
@@ -483,7 +483,7 @@
         "model": "players.players",
         "pk": 25,
         "fields": {
-            "image": "player_images/Matty_Cash.jpg",
+            "upload_to": "player_images/Matty_Cash.jpg",
             "name": "Matty Cash",
             "club": "Aston Villa",
             "position": "Defender",
@@ -503,7 +503,7 @@
         "model": "players.players",
         "pk": 26,
         "fields": {
-            "image": "player_images/Ezri_Konsa.jpg",
+            "upload_to": "player_images/Ezri_Konsa.jpg",
             "name": "Ezri Konsa",
             "club": "Aston Villa",
             "position": "Defender",
@@ -523,7 +523,7 @@
         "model": "players.players",
         "pk": 27,
         "fields": {
-            "image": "player_images/Tyrone_Mings.jpg",
+            "upload_to": "player_images/Tyrone_Mings.jpg",
             "name": "Tyrone Mings",
             "club": "Aston Villa",
             "position": "Defender",
@@ -543,7 +543,7 @@
         "model": "players.players",
         "pk": 28,
         "fields": {
-            "image": "player_images/Lucas_Digne.jpg",
+            "upload_to": "player_images/Lucas_Digne.jpg",
             "name": "Lucas Digne",
             "club": "Aston Villa",
             "position": "Defender",
@@ -563,7 +563,7 @@
         "model": "players.players",
         "pk": 29,
         "fields": {
-            "image": "player_images/Pau_Torres.jpg",
+            "upload_to": "player_images/Pau_Torres.jpg",
             "name": "Pau Torres",
             "club": "Aston Villa",
             "position": "Defender",
@@ -583,7 +583,7 @@
         "model": "players.players",
         "pk": 30,
         "fields": {
-            "image": "player_images/Ian_Maatsen.jpg",
+            "upload_to": "player_images/Ian_Maatsen.jpg",
             "name": "Ian Maatsen",
             "club": "Aston Villa",
             "position": "Defender",
@@ -603,7 +603,7 @@
         "model": "players.players",
         "pk": 31,
         "fields": {
-            "image": "player_images/Lamare_Bogarde.jpg",
+            "upload_to": "player_images/Lamare_Bogarde.jpg",
             "name": "Lamare Bogarde",
             "club": "Aston Villa",
             "position": "Defender",
@@ -623,7 +623,7 @@
         "model": "players.players",
         "pk": 32,
         "fields": {
-            "image": "player_images/Andr\u00e9s_Garc\u00eda.jpg",
+            "upload_to": "player_images/Andr\u00e9s_Garc\u00eda.jpg",
             "name": "Andr\u00e9s Garc\u00eda",
             "club": "Aston Villa",
             "position": "Defender",
@@ -643,7 +643,7 @@
         "model": "players.players",
         "pk": 33,
         "fields": {
-            "image": "player_images/Axel_Disasi.jpg",
+            "upload_to": "player_images/Axel_Disasi.jpg",
             "name": "Axel Disasi",
             "club": "Aston Villa",
             "position": "Defender",
@@ -663,7 +663,7 @@
         "model": "players.players",
         "pk": 34,
         "fields": {
-            "image": "player_images/John_McGinn.jpg",
+            "upload_to": "player_images/John_McGinn.jpg",
             "name": "John McGinn",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -683,7 +683,7 @@
         "model": "players.players",
         "pk": 35,
         "fields": {
-            "image": "player_images/Youri_Tielemans.jpg",
+            "upload_to": "player_images/Youri_Tielemans.jpg",
             "name": "Youri Tielemans",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -703,7 +703,7 @@
         "model": "players.players",
         "pk": 36,
         "fields": {
-            "image": "player_images/Jacob_Ramsey.jpg",
+            "upload_to": "player_images/Jacob_Ramsey.jpg",
             "name": "Jacob Ramsey",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -723,7 +723,7 @@
         "model": "players.players",
         "pk": 37,
         "fields": {
-            "image": "player_images/Boubacar_Kamara.jpg",
+            "upload_to": "player_images/Boubacar_Kamara.jpg",
             "name": "Boubacar Kamara",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -743,7 +743,7 @@
         "model": "players.players",
         "pk": 38,
         "fields": {
-            "image": "player_images/Leon_Bailey.jpg",
+            "upload_to": "player_images/Leon_Bailey.jpg",
             "name": "Leon Bailey",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -763,7 +763,7 @@
         "model": "players.players",
         "pk": 39,
         "fields": {
-            "image": "player_images/Ross_Barkley.jpg",
+            "upload_to": "player_images/Ross_Barkley.jpg",
             "name": "Ross Barkley",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -783,7 +783,7 @@
         "model": "players.players",
         "pk": 40,
         "fields": {
-            "image": "player_images/Amadou_Onana.jpg",
+            "upload_to": "player_images/Amadou_Onana.jpg",
             "name": "Amadou Onana",
             "club": "Aston Villa",
             "position": "Midfielder",
@@ -803,7 +803,7 @@
         "model": "players.players",
         "pk": 41,
         "fields": {
-            "image": "player_images/Ollie_Watkins.jpg",
+            "upload_to": "player_images/Ollie_Watkins.jpg",
             "name": "Ollie Watkins",
             "club": "Aston Villa",
             "position": "Forward",
@@ -823,7 +823,7 @@
         "model": "players.players",
         "pk": 42,
         "fields": {
-            "image": "player_images/Morgan_Rogers.jpg",
+            "upload_to": "player_images/Morgan_Rogers.jpg",
             "name": "Morgan Rogers",
             "club": "Aston Villa",
             "position": "Forward",
@@ -843,7 +843,7 @@
         "model": "players.players",
         "pk": 43,
         "fields": {
-            "image": "player_images/Donyell_Malen.jpg",
+            "upload_to": "player_images/Donyell_Malen.jpg",
             "name": "Donyell Malen",
             "club": "Aston Villa",
             "position": "Forward",
@@ -863,7 +863,7 @@
         "model": "players.players",
         "pk": 44,
         "fields": {
-            "image": "player_images/Marcus_Rashford.jpg",
+            "upload_to": "player_images/Marcus_Rashford.jpg",
             "name": "Marcus Rashford",
             "club": "Aston Villa",
             "position": "Forward",
@@ -883,7 +883,7 @@
         "model": "players.players",
         "pk": 45,
         "fields": {
-            "image": "player_images/Marco_Asensio.jpg",
+            "upload_to": "player_images/Marco_Asensio.jpg",
             "name": "Marco Asensio",
             "club": "Aston Villa",
             "position": "Forward",
@@ -903,7 +903,7 @@
         "model": "players.players",
         "pk": 46,
         "fields": {
-            "image": "player_images/Milos_Kerkez.jpg",
+            "upload_to": "player_images/Milos_Kerkez.jpg",
             "name": "Milos Kerkez",
             "club": "Bournemouth",
             "position": "Defender",
@@ -923,7 +923,7 @@
         "model": "players.players",
         "pk": 47,
         "fields": {
-            "image": "player_images/Adam_Smith.jpg",
+            "upload_to": "player_images/Adam_Smith.jpg",
             "name": "Adam Smith",
             "club": "Bournemouth",
             "position": "Defender",
@@ -943,7 +943,7 @@
         "model": "players.players",
         "pk": 48,
         "fields": {
-            "image": "player_images/James_Hill.jpg",
+            "upload_to": "player_images/James_Hill.jpg",
             "name": "James Hill",
             "club": "Bournemouth",
             "position": "Defender",
@@ -963,7 +963,7 @@
         "model": "players.players",
         "pk": 49,
         "fields": {
-            "image": "player_images/Marcos_Senesi.jpg",
+            "upload_to": "player_images/Marcos_Senesi.jpg",
             "name": "Marcos Senesi",
             "club": "Bournemouth",
             "position": "Defender",
@@ -983,7 +983,7 @@
         "model": "players.players",
         "pk": 50,
         "fields": {
-            "image": "player_images/Illia_Zabarnyi.jpg",
+            "upload_to": "player_images/Illia_Zabarnyi.jpg",
             "name": "Illia Zabarnyi",
             "club": "Bournemouth",
             "position": "Defender",
@@ -1003,7 +1003,7 @@
         "model": "players.players",
         "pk": 51,
         "fields": {
-            "image": "player_images/Dean_Huijsen.jpg",
+            "upload_to": "player_images/Dean_Huijsen.jpg",
             "name": "Dean Huijsen",
             "club": "Bournemouth",
             "position": "Defender",
@@ -1023,7 +1023,7 @@
         "model": "players.players",
         "pk": 52,
         "fields": {
-            "image": "player_images/Juli\u00e1n_Araujo.jpg",
+            "upload_to": "player_images/Juli\u00e1n_Araujo.jpg",
             "name": "Juli\u00e1n Araujo",
             "club": "Bournemouth",
             "position": "Defender",
@@ -1043,7 +1043,7 @@
         "model": "players.players",
         "pk": 53,
         "fields": {
-            "image": "player_images/Lewis_Cook.jpg",
+            "upload_to": "player_images/Lewis_Cook.jpg",
             "name": "Lewis Cook",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1063,7 +1063,7 @@
         "model": "players.players",
         "pk": 54,
         "fields": {
-            "image": "player_images/David_Brooks.jpg",
+            "upload_to": "player_images/David_Brooks.jpg",
             "name": "David Brooks",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1083,7 +1083,7 @@
         "model": "players.players",
         "pk": 55,
         "fields": {
-            "image": "player_images/Ryan_Christie.jpg",
+            "upload_to": "player_images/Ryan_Christie.jpg",
             "name": "Ryan Christie",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1103,7 +1103,7 @@
         "model": "players.players",
         "pk": 56,
         "fields": {
-            "image": "player_images/Alex_Scott.jpg",
+            "upload_to": "player_images/Alex_Scott.jpg",
             "name": "Alex Scott",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1123,7 +1123,7 @@
         "model": "players.players",
         "pk": 57,
         "fields": {
-            "image": "player_images/Marcus_Tavernier.jpg",
+            "upload_to": "player_images/Marcus_Tavernier.jpg",
             "name": "Marcus Tavernier",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1143,7 +1143,7 @@
         "model": "players.players",
         "pk": 58,
         "fields": {
-            "image": "player_images/Tyler_Adams.jpg",
+            "upload_to": "player_images/Tyler_Adams.jpg",
             "name": "Tyler Adams",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1163,7 +1163,7 @@
         "model": "players.players",
         "pk": 59,
         "fields": {
-            "image": "player_images/Ben_Winterburn.jpg",
+            "upload_to": "player_images/Ben_Winterburn.jpg",
             "name": "Ben Winterburn",
             "club": "Bournemouth",
             "position": "Midfielder",
@@ -1183,7 +1183,7 @@
         "model": "players.players",
         "pk": 60,
         "fields": {
-            "image": "player_images/Dango_Ouattara.jpg",
+            "upload_to": "player_images/Dango_Ouattara.jpg",
             "name": "Dango Ouattara",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1203,7 +1203,7 @@
         "model": "players.players",
         "pk": 61,
         "fields": {
-            "image": "player_images/Justin_Kluivert.jpg",
+            "upload_to": "player_images/Justin_Kluivert.jpg",
             "name": "Justin Kluivert",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1223,7 +1223,7 @@
         "model": "players.players",
         "pk": 62,
         "fields": {
-            "image": "player_images/Antoine_Semenyo.jpg",
+            "upload_to": "player_images/Antoine_Semenyo.jpg",
             "name": "Antoine Semenyo",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1243,7 +1243,7 @@
         "model": "players.players",
         "pk": 63,
         "fields": {
-            "image": "player_images/Luis_Sinisterra.jpg",
+            "upload_to": "player_images/Luis_Sinisterra.jpg",
             "name": "Luis Sinisterra",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1263,7 +1263,7 @@
         "model": "players.players",
         "pk": 64,
         "fields": {
-            "image": "player_images/Enes_\u00dcnal.jpg",
+            "upload_to": "player_images/Enes_\u00dcnal.jpg",
             "name": "Enes \u00dcnal",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1283,7 +1283,7 @@
         "model": "players.players",
         "pk": 65,
         "fields": {
-            "image": "player_images/Daniel_Jebbison.jpg",
+            "upload_to": "player_images/Daniel_Jebbison.jpg",
             "name": "Daniel Jebbison",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1303,7 +1303,7 @@
         "model": "players.players",
         "pk": 66,
         "fields": {
-            "image": "player_images/Remy_Rees-Dottin.jpg",
+            "upload_to": "player_images/Remy_Rees-Dottin.jpg",
             "name": "Remy Rees-Dottin",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1323,7 +1323,7 @@
         "model": "players.players",
         "pk": 67,
         "fields": {
-            "image": "player_images/Zain_Silcott-Duberry.jpg",
+            "upload_to": "player_images/Zain_Silcott-Duberry.jpg",
             "name": "Zain Silcott-Duberry",
             "club": "Bournemouth",
             "position": "Forward",
@@ -1343,7 +1343,7 @@
         "model": "players.players",
         "pk": 68,
         "fields": {
-            "image": "player_images/Mark_Flekken.jpg",
+            "upload_to": "player_images/Mark_Flekken.jpg",
             "name": "Mark Flekken",
             "club": "Brentford",
             "position": "Goalkeeper",
@@ -1363,7 +1363,7 @@
         "model": "players.players",
         "pk": 69,
         "fields": {
-            "image": "player_images/H\u00e1kon_Valdimarsson.jpg",
+            "upload_to": "player_images/H\u00e1kon_Valdimarsson.jpg",
             "name": "H\u00e1kon Valdimarsson",
             "club": "Brentford",
             "position": "Goalkeeper",
@@ -1383,7 +1383,7 @@
         "model": "players.players",
         "pk": 70,
         "fields": {
-            "image": "player_images/Nathan_Collins.jpg",
+            "upload_to": "player_images/Nathan_Collins.jpg",
             "name": "Nathan Collins",
             "club": "Brentford",
             "position": "Defender",
@@ -1403,7 +1403,7 @@
         "model": "players.players",
         "pk": 71,
         "fields": {
-            "image": "player_images/Rico_Henry.jpg",
+            "upload_to": "player_images/Rico_Henry.jpg",
             "name": "Rico Henry",
             "club": "Brentford",
             "position": "Defender",
@@ -1423,7 +1423,7 @@
         "model": "players.players",
         "pk": 72,
         "fields": {
-            "image": "player_images/Ethan_Pinnock.jpg",
+            "upload_to": "player_images/Ethan_Pinnock.jpg",
             "name": "Ethan Pinnock",
             "club": "Brentford",
             "position": "Defender",
@@ -1443,7 +1443,7 @@
         "model": "players.players",
         "pk": 73,
         "fields": {
-            "image": "player_images/Ben_Mee.jpg",
+            "upload_to": "player_images/Ben_Mee.jpg",
             "name": "Ben Mee",
             "club": "Brentford",
             "position": "Defender",
@@ -1463,7 +1463,7 @@
         "model": "players.players",
         "pk": 74,
         "fields": {
-            "image": "player_images/Kristoffer_Ajer.jpg",
+            "upload_to": "player_images/Kristoffer_Ajer.jpg",
             "name": "Kristoffer Ajer",
             "club": "Brentford",
             "position": "Defender",
@@ -1483,7 +1483,7 @@
         "model": "players.players",
         "pk": 75,
         "fields": {
-            "image": "player_images/Kim_Ji-Soo.jpg",
+            "upload_to": "player_images/Kim_Ji-Soo.jpg",
             "name": "Kim Ji-Soo",
             "club": "Brentford",
             "position": "Defender",
@@ -1503,7 +1503,7 @@
         "model": "players.players",
         "pk": 76,
         "fields": {
-            "image": "player_images/Sepp_van_den_Berg.jpg",
+            "upload_to": "player_images/Sepp_van_den_Berg.jpg",
             "name": "Sepp van den Berg",
             "club": "Brentford",
             "position": "Defender",
@@ -1523,7 +1523,7 @@
         "model": "players.players",
         "pk": 77,
         "fields": {
-            "image": "player_images/Michael_Kayode.jpg",
+            "upload_to": "player_images/Michael_Kayode.jpg",
             "name": "Michael Kayode",
             "club": "Brentford",
             "position": "Defender",
@@ -1543,7 +1543,7 @@
         "model": "players.players",
         "pk": 78,
         "fields": {
-            "image": "player_images/Yehor_Yarmoliuk.jpg",
+            "upload_to": "player_images/Yehor_Yarmoliuk.jpg",
             "name": "Yehor Yarmoliuk",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1563,7 +1563,7 @@
         "model": "players.players",
         "pk": 79,
         "fields": {
-            "image": "player_images/Christian_N\u00f8rgaard.jpg",
+            "upload_to": "player_images/Christian_N\u00f8rgaard.jpg",
             "name": "Christian N\u00f8rgaard",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1583,7 +1583,7 @@
         "model": "players.players",
         "pk": 80,
         "fields": {
-            "image": "player_images/Mathias_Jensen.jpg",
+            "upload_to": "player_images/Mathias_Jensen.jpg",
             "name": "Mathias Jensen",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1603,7 +1603,7 @@
         "model": "players.players",
         "pk": 81,
         "fields": {
-            "image": "player_images/Kevin_Schade.jpg",
+            "upload_to": "player_images/Kevin_Schade.jpg",
             "name": "Kevin Schade",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1623,7 +1623,7 @@
         "model": "players.players",
         "pk": 82,
         "fields": {
-            "image": "player_images/Yoane_Wissa.jpg",
+            "upload_to": "player_images/Yoane_Wissa.jpg",
             "name": "Yoane Wissa",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1643,7 +1643,7 @@
         "model": "players.players",
         "pk": 83,
         "fields": {
-            "image": "player_images/Bryan_Mbeumo.jpg",
+            "upload_to": "player_images/Bryan_Mbeumo.jpg",
             "name": "Bryan Mbeumo",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1663,7 +1663,7 @@
         "model": "players.players",
         "pk": 84,
         "fields": {
-            "image": "player_images/Mikkel_Damsgaard.jpg",
+            "upload_to": "player_images/Mikkel_Damsgaard.jpg",
             "name": "Mikkel Damsgaard",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1683,7 +1683,7 @@
         "model": "players.players",
         "pk": 85,
         "fields": {
-            "image": "player_images/Vitaly_Janelt.jpg",
+            "upload_to": "player_images/Vitaly_Janelt.jpg",
             "name": "Vitaly Janelt",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1703,7 +1703,7 @@
         "model": "players.players",
         "pk": 86,
         "fields": {
-            "image": "player_images/Yunus_Konak.jpg",
+            "upload_to": "player_images/Yunus_Konak.jpg",
             "name": "Yunus Konak",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1723,7 +1723,7 @@
         "model": "players.players",
         "pk": 87,
         "fields": {
-            "image": "player_images/Paris_Maghoma.jpg",
+            "upload_to": "player_images/Paris_Maghoma.jpg",
             "name": "Paris Maghoma",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1743,7 +1743,7 @@
         "model": "players.players",
         "pk": 88,
         "fields": {
-            "image": "player_images/F\u00e1bio_Carvalho.jpg",
+            "upload_to": "player_images/F\u00e1bio_Carvalho.jpg",
             "name": "F\u00e1bio Carvalho",
             "club": "Brentford",
             "position": "Midfielder",
@@ -1763,7 +1763,7 @@
         "model": "players.players",
         "pk": 89,
         "fields": {
-            "image": "player_images/Keane_Lewis-Potter.jpg",
+            "upload_to": "player_images/Keane_Lewis-Potter.jpg",
             "name": "Keane Lewis-Potter",
             "club": "Brentford",
             "position": "Forward",
@@ -1783,7 +1783,7 @@
         "model": "players.players",
         "pk": 90,
         "fields": {
-            "image": "player_images/Igor_Thiago.jpg",
+            "upload_to": "player_images/Igor_Thiago.jpg",
             "name": "Igor Thiago",
             "club": "Brentford",
             "position": "Forward",
@@ -1803,7 +1803,7 @@
         "model": "players.players",
         "pk": 91,
         "fields": {
-            "image": "player_images/Bart_Verbruggen.jpg",
+            "upload_to": "player_images/Bart_Verbruggen.jpg",
             "name": "Bart Verbruggen",
             "club": "Brighton and Hove Albion",
             "position": "Goalkeeper",
@@ -1823,7 +1823,7 @@
         "model": "players.players",
         "pk": 92,
         "fields": {
-            "image": "player_images/Jason_Steele.jpg",
+            "upload_to": "player_images/Jason_Steele.jpg",
             "name": "Jason Steele",
             "club": "Brighton and Hove Albion",
             "position": "Goalkeeper",
@@ -1843,7 +1843,7 @@
         "model": "players.players",
         "pk": 93,
         "fields": {
-            "image": "player_images/Tariq_Lamptey.jpg",
+            "upload_to": "player_images/Tariq_Lamptey.jpg",
             "name": "Tariq Lamptey",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1863,7 +1863,7 @@
         "model": "players.players",
         "pk": 94,
         "fields": {
-            "image": "player_images/Igor_Julio.jpg",
+            "upload_to": "player_images/Igor_Julio.jpg",
             "name": "Igor Julio",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1883,7 +1883,7 @@
         "model": "players.players",
         "pk": 95,
         "fields": {
-            "image": "player_images/Adam_Webster.jpg",
+            "upload_to": "player_images/Adam_Webster.jpg",
             "name": "Adam Webster",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1903,7 +1903,7 @@
         "model": "players.players",
         "pk": 96,
         "fields": {
-            "image": "player_images/Lewis_Dunk.jpg",
+            "upload_to": "player_images/Lewis_Dunk.jpg",
             "name": "Lewis Dunk",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1923,7 +1923,7 @@
         "model": "players.players",
         "pk": 97,
         "fields": {
-            "image": "player_images/Jan_Paul_van_Hecke.jpg",
+            "upload_to": "player_images/Jan_Paul_van_Hecke.jpg",
             "name": "Jan Paul van Hecke",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1943,7 +1943,7 @@
         "model": "players.players",
         "pk": 98,
         "fields": {
-            "image": "player_images/Pervis_Estupi\u00f1\u00e1n.jpg",
+            "upload_to": "player_images/Pervis_Estupi\u00f1\u00e1n.jpg",
             "name": "Pervis Estupi\u00f1\u00e1n",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1963,7 +1963,7 @@
         "model": "players.players",
         "pk": 99,
         "fields": {
-            "image": "player_images/Jo\u00ebl_Veltman.jpg",
+            "upload_to": "player_images/Jo\u00ebl_Veltman.jpg",
             "name": "Jo\u00ebl Veltman",
             "club": "Brighton and Hove Albion",
             "position": "Defender",
@@ -1983,7 +1983,7 @@
         "model": "players.players",
         "pk": 100,
         "fields": {
-            "image": "player_images/James_Milner.jpg",
+            "upload_to": "player_images/James_Milner.jpg",
             "name": "James Milner",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2003,7 +2003,7 @@
         "model": "players.players",
         "pk": 101,
         "fields": {
-            "image": "player_images/Solly_March.jpg",
+            "upload_to": "player_images/Solly_March.jpg",
             "name": "Solly March",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2023,7 +2023,7 @@
         "model": "players.players",
         "pk": 102,
         "fields": {
-            "image": "player_images/Kaoru_Mitoma.jpg",
+            "upload_to": "player_images/Kaoru_Mitoma.jpg",
             "name": "Kaoru Mitoma",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2043,7 +2043,7 @@
         "model": "players.players",
         "pk": 103,
         "fields": {
-            "image": "player_images/Yasin_Ayari.jpg",
+            "upload_to": "player_images/Yasin_Ayari.jpg",
             "name": "Yasin Ayari",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2063,7 +2063,7 @@
         "model": "players.players",
         "pk": 104,
         "fields": {
-            "image": "player_images/Carlos_Baleba.jpg",
+            "upload_to": "player_images/Carlos_Baleba.jpg",
             "name": "Carlos Baleba",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2083,7 +2083,7 @@
         "model": "players.players",
         "pk": 105,
         "fields": {
-            "image": "player_images/Jack_Hinshelwood.jpg",
+            "upload_to": "player_images/Jack_Hinshelwood.jpg",
             "name": "Jack Hinshelwood",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2103,7 +2103,7 @@
         "model": "players.players",
         "pk": 106,
         "fields": {
-            "image": "player_images/Mats_Wieffer.jpg",
+            "upload_to": "player_images/Mats_Wieffer.jpg",
             "name": "Mats Wieffer",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2123,7 +2123,7 @@
         "model": "players.players",
         "pk": 107,
         "fields": {
-            "image": "player_images/Brajan_Gruda.jpg",
+            "upload_to": "player_images/Brajan_Gruda.jpg",
             "name": "Brajan Gruda",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2143,7 +2143,7 @@
         "model": "players.players",
         "pk": 108,
         "fields": {
-            "image": "player_images/Matt_O'Riley.jpg",
+            "upload_to": "player_images/Matt_O'Riley.jpg",
             "name": "Matt O'Riley",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2163,7 +2163,7 @@
         "model": "players.players",
         "pk": 109,
         "fields": {
-            "image": "player_images/Ferdi_Kadioglu.jpg",
+            "upload_to": "player_images/Ferdi_Kadioglu.jpg",
             "name": "Ferdi Kadioglu",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2183,7 +2183,7 @@
         "model": "players.players",
         "pk": 110,
         "fields": {
-            "image": "player_images/Diego_G\u00f3mez.jpg",
+            "upload_to": "player_images/Diego_G\u00f3mez.jpg",
             "name": "Diego G\u00f3mez",
             "club": "Brighton and Hove Albion",
             "position": "Midfielder",
@@ -2203,7 +2203,7 @@
         "model": "players.players",
         "pk": 111,
         "fields": {
-            "image": "player_images/Jo\u00e3o_Pedro.jpg",
+            "upload_to": "player_images/Jo\u00e3o_Pedro.jpg",
             "name": "Jo\u00e3o Pedro",
             "club": "Brighton and Hove Albion",
             "position": "Forward",
@@ -2223,7 +2223,7 @@
         "model": "players.players",
         "pk": 112,
         "fields": {
-            "image": "player_images/Danny_Welbeck.jpg",
+            "upload_to": "player_images/Danny_Welbeck.jpg",
             "name": "Danny Welbeck",
             "club": "Brighton and Hove Albion",
             "position": "Forward",
@@ -2243,7 +2243,7 @@
         "model": "players.players",
         "pk": 113,
         "fields": {
-            "image": "player_images/Simon_Adingra.jpg",
+            "upload_to": "player_images/Simon_Adingra.jpg",
             "name": "Simon Adingra",
             "club": "Brighton and Hove Albion",
             "position": "Forward",
@@ -2263,7 +2263,7 @@
         "model": "players.players",
         "pk": 114,
         "fields": {
-            "image": "player_images/Yankuba_Minteh.jpg",
+            "upload_to": "player_images/Yankuba_Minteh.jpg",
             "name": "Yankuba Minteh",
             "club": "Brighton and Hove Albion",
             "position": "Forward",
@@ -2283,7 +2283,7 @@
         "model": "players.players",
         "pk": 115,
         "fields": {
-            "image": "player_images/Georginio_Rutter.jpg",
+            "upload_to": "player_images/Georginio_Rutter.jpg",
             "name": "Georginio Rutter",
             "club": "Brighton and Hove Albion",
             "position": "Forward",
@@ -2303,7 +2303,7 @@
         "model": "players.players",
         "pk": 116,
         "fields": {
-            "image": "player_images/Robert_S\u00e1nchez.jpg",
+            "upload_to": "player_images/Robert_S\u00e1nchez.jpg",
             "name": "Robert S\u00e1nchez",
             "club": "Chelsea",
             "position": "Goalkeeper",
@@ -2323,7 +2323,7 @@
         "model": "players.players",
         "pk": 117,
         "fields": {
-            "image": "player_images/Filip_J\u00f8rgensen.jpg",
+            "upload_to": "player_images/Filip_J\u00f8rgensen.jpg",
             "name": "Filip J\u00f8rgensen",
             "club": "Chelsea",
             "position": "Goalkeeper",
@@ -2343,7 +2343,7 @@
         "model": "players.players",
         "pk": 118,
         "fields": {
-            "image": "player_images/Marc_Cucurella.jpg",
+            "upload_to": "player_images/Marc_Cucurella.jpg",
             "name": "Marc Cucurella",
             "club": "Chelsea",
             "position": "Defender",
@@ -2363,7 +2363,7 @@
         "model": "players.players",
         "pk": 119,
         "fields": {
-            "image": "player_images/Beno\u00eet_Badiashile.jpg",
+            "upload_to": "player_images/Beno\u00eet_Badiashile.jpg",
             "name": "Beno\u00eet Badiashile",
             "club": "Chelsea",
             "position": "Defender",
@@ -2383,7 +2383,7 @@
         "model": "players.players",
         "pk": 120,
         "fields": {
-            "image": "player_images/Trevoh_Chalobah.jpg",
+            "upload_to": "player_images/Trevoh_Chalobah.jpg",
             "name": "Trevoh Chalobah",
             "club": "Chelsea",
             "position": "Defender",
@@ -2403,7 +2403,7 @@
         "model": "players.players",
         "pk": 121,
         "fields": {
-            "image": "player_images/Reece_James.jpg",
+            "upload_to": "player_images/Reece_James.jpg",
             "name": "Reece James",
             "club": "Chelsea",
             "position": "Defender",
@@ -2423,7 +2423,7 @@
         "model": "players.players",
         "pk": 122,
         "fields": {
-            "image": "player_images/Levi_Colwill.jpg",
+            "upload_to": "player_images/Levi_Colwill.jpg",
             "name": "Levi Colwill",
             "club": "Chelsea",
             "position": "Defender",
@@ -2443,7 +2443,7 @@
         "model": "players.players",
         "pk": 123,
         "fields": {
-            "image": "player_images/Malo_Gusto.jpg",
+            "upload_to": "player_images/Malo_Gusto.jpg",
             "name": "Malo Gusto",
             "club": "Chelsea",
             "position": "Defender",
@@ -2463,7 +2463,7 @@
         "model": "players.players",
         "pk": 124,
         "fields": {
-            "image": "player_images/Wesley_Fofana.jpg",
+            "upload_to": "player_images/Wesley_Fofana.jpg",
             "name": "Wesley Fofana",
             "club": "Chelsea",
             "position": "Defender",
@@ -2483,7 +2483,7 @@
         "model": "players.players",
         "pk": 125,
         "fields": {
-            "image": "player_images/Josh_Acheampong.jpg",
+            "upload_to": "player_images/Josh_Acheampong.jpg",
             "name": "Josh Acheampong",
             "club": "Chelsea",
             "position": "Defender",
@@ -2503,7 +2503,7 @@
         "model": "players.players",
         "pk": 126,
         "fields": {
-            "image": "player_images/Tosin_Adarabioyo.jpg",
+            "upload_to": "player_images/Tosin_Adarabioyo.jpg",
             "name": "Tosin Adarabioyo",
             "club": "Chelsea",
             "position": "Defender",
@@ -2523,7 +2523,7 @@
         "model": "players.players",
         "pk": 127,
         "fields": {
-            "image": "player_images/Enzo_Fern\u00e1ndez.jpg",
+            "upload_to": "player_images/Enzo_Fern\u00e1ndez.jpg",
             "name": "Enzo Fern\u00e1ndez",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2543,7 +2543,7 @@
         "model": "players.players",
         "pk": 128,
         "fields": {
-            "image": "player_images/Mykhailo_Mudryk.jpg",
+            "upload_to": "player_images/Mykhailo_Mudryk.jpg",
             "name": "Mykhailo Mudryk",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2563,7 +2563,7 @@
         "model": "players.players",
         "pk": 129,
         "fields": {
-            "image": "player_images/Cole_Palmer.jpg",
+            "upload_to": "player_images/Cole_Palmer.jpg",
             "name": "Cole Palmer",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2583,7 +2583,7 @@
         "model": "players.players",
         "pk": 130,
         "fields": {
-            "image": "player_images/Mois\u00e9s_Caicedo.jpg",
+            "upload_to": "player_images/Mois\u00e9s_Caicedo.jpg",
             "name": "Mois\u00e9s Caicedo",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2603,7 +2603,7 @@
         "model": "players.players",
         "pk": 131,
         "fields": {
-            "image": "player_images/Rom\u00e9o_Lavia.jpg",
+            "upload_to": "player_images/Rom\u00e9o_Lavia.jpg",
             "name": "Rom\u00e9o Lavia",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2623,7 +2623,7 @@
         "model": "players.players",
         "pk": 132,
         "fields": {
-            "image": "player_images/Kiernan_Dewsbury-Hall.jpg",
+            "upload_to": "player_images/Kiernan_Dewsbury-Hall.jpg",
             "name": "Kiernan Dewsbury-Hall",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2643,7 +2643,7 @@
         "model": "players.players",
         "pk": 133,
         "fields": {
-            "image": "player_images/Mathis_Amougou.jpg",
+            "upload_to": "player_images/Mathis_Amougou.jpg",
             "name": "Mathis Amougou",
             "club": "Chelsea",
             "position": "Midfielder",
@@ -2663,7 +2663,7 @@
         "model": "players.players",
         "pk": 134,
         "fields": {
-            "image": "player_images/Noni_Madueke.jpg",
+            "upload_to": "player_images/Noni_Madueke.jpg",
             "name": "Noni Madueke",
             "club": "Chelsea",
             "position": "Forward",
@@ -2683,7 +2683,7 @@
         "model": "players.players",
         "pk": 135,
         "fields": {
-            "image": "player_images/Nicolas_Jackson.jpg",
+            "upload_to": "player_images/Nicolas_Jackson.jpg",
             "name": "Nicolas Jackson",
             "club": "Chelsea",
             "position": "Forward",
@@ -2703,7 +2703,7 @@
         "model": "players.players",
         "pk": 136,
         "fields": {
-            "image": "player_images/Christopher_Nkunku.jpg",
+            "upload_to": "player_images/Christopher_Nkunku.jpg",
             "name": "Christopher Nkunku",
             "club": "Chelsea",
             "position": "Forward",
@@ -2723,7 +2723,7 @@
         "model": "players.players",
         "pk": 137,
         "fields": {
-            "image": "player_images/Tyrique_George.jpg",
+            "upload_to": "player_images/Tyrique_George.jpg",
             "name": "Tyrique George",
             "club": "Chelsea",
             "position": "Forward",
@@ -2743,7 +2743,7 @@
         "model": "players.players",
         "pk": 138,
         "fields": {
-            "image": "player_images/Marc_Guiu.jpg",
+            "upload_to": "player_images/Marc_Guiu.jpg",
             "name": "Marc Guiu",
             "club": "Chelsea",
             "position": "Forward",
@@ -2763,7 +2763,7 @@
         "model": "players.players",
         "pk": 139,
         "fields": {
-            "image": "player_images/Pedro_Neto.jpg",
+            "upload_to": "player_images/Pedro_Neto.jpg",
             "name": "Pedro Neto",
             "club": "Chelsea",
             "position": "Forward",
@@ -2783,7 +2783,7 @@
         "model": "players.players",
         "pk": 140,
         "fields": {
-            "image": "player_images/Jadon_Sancho.jpg",
+            "upload_to": "player_images/Jadon_Sancho.jpg",
             "name": "Jadon Sancho",
             "club": "Chelsea",
             "position": "Forward",
@@ -2803,7 +2803,7 @@
         "model": "players.players",
         "pk": 141,
         "fields": {
-            "image": "player_images/Shumaira_Mheuka.jpg",
+            "upload_to": "player_images/Shumaira_Mheuka.jpg",
             "name": "Shumaira Mheuka",
             "club": "Chelsea",
             "position": "Forward",
