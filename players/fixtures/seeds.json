@@ -1805,7 +1805,7 @@
         "fields": {
             "upload_to": "player_images/Bart_Verbruggen.jpg",
             "name": "Bart Verbruggen",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Goalkeeper",
             "price": 6,
             "appearances": 25,
@@ -1825,7 +1825,7 @@
         "fields": {
             "upload_to": "player_images/Jason_Steele.jpg",
             "name": "Jason Steele",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Goalkeeper",
             "price": 6,
             "appearances": 2,
@@ -1845,7 +1845,7 @@
         "fields": {
             "upload_to": "player_images/Tariq_Lamptey.jpg",
             "name": "Tariq Lamptey",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 6,
             "appearances": 13,
@@ -1865,7 +1865,7 @@
         "fields": {
             "upload_to": "player_images/Igor_Julio.jpg",
             "name": "Igor Julio",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 5,
             "appearances": 12,
@@ -1885,7 +1885,7 @@
         "fields": {
             "upload_to": "player_images/Adam_Webster.jpg",
             "name": "Adam Webster",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 6,
             "appearances": 9,
@@ -1905,7 +1905,7 @@
         "fields": {
             "upload_to": "player_images/Lewis_Dunk.jpg",
             "name": "Lewis Dunk",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 7,
             "appearances": 19,
@@ -1925,7 +1925,7 @@
         "fields": {
             "upload_to": "player_images/Jan_Paul_van_Hecke.jpg",
             "name": "Jan Paul van Hecke",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 6,
             "appearances": 25,
@@ -1945,7 +1945,7 @@
         "fields": {
             "upload_to": "player_images/Pervis_Estupi\u00f1\u00e1n.jpg",
             "name": "Pervis Estupi\u00f1\u00e1n",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 7,
             "appearances": 20,
@@ -1965,7 +1965,7 @@
         "fields": {
             "upload_to": "player_images/Jo\u00ebl_Veltman.jpg",
             "name": "Jo\u00ebl Veltman",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Defender",
             "price": 6,
             "appearances": 19,
@@ -1985,7 +1985,7 @@
         "fields": {
             "upload_to": "player_images/James_Milner.jpg",
             "name": "James Milner",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 6,
             "appearances": 3,
@@ -2005,7 +2005,7 @@
         "fields": {
             "upload_to": "player_images/Solly_March.jpg",
             "name": "Solly March",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 6,
             "appearances": 3,
@@ -2025,7 +2025,7 @@
         "fields": {
             "upload_to": "player_images/Kaoru_Mitoma.jpg",
             "name": "Kaoru Mitoma",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 9,
             "appearances": 27,
@@ -2045,7 +2045,7 @@
         "fields": {
             "upload_to": "player_images/Yasin_Ayari.jpg",
             "name": "Yasin Ayari",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 7,
             "appearances": 23,
@@ -2065,7 +2065,7 @@
         "fields": {
             "upload_to": "player_images/Carlos_Baleba.jpg",
             "name": "Carlos Baleba",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 8,
             "appearances": 23,
@@ -2085,7 +2085,7 @@
         "fields": {
             "upload_to": "player_images/Jack_Hinshelwood.jpg",
             "name": "Jack Hinshelwood",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 7,
             "appearances": 15,
@@ -2105,7 +2105,7 @@
         "fields": {
             "upload_to": "player_images/Mats_Wieffer.jpg",
             "name": "Mats Wieffer",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 6,
             "appearances": 15,
@@ -2125,7 +2125,7 @@
         "fields": {
             "upload_to": "player_images/Brajan_Gruda.jpg",
             "name": "Brajan Gruda",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 6,
             "appearances": 12,
@@ -2145,7 +2145,7 @@
         "fields": {
             "upload_to": "player_images/Matt_O'Riley.jpg",
             "name": "Matt O'Riley",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 6,
             "appearances": 12,
@@ -2165,7 +2165,7 @@
         "fields": {
             "upload_to": "player_images/Ferdi_Kadioglu.jpg",
             "name": "Ferdi Kadioglu",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 6,
             "appearances": 6,
@@ -2185,7 +2185,7 @@
         "fields": {
             "upload_to": "player_images/Diego_G\u00f3mez.jpg",
             "name": "Diego G\u00f3mez",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Midfielder",
             "price": 5,
             "appearances": 5,
@@ -2205,7 +2205,7 @@
         "fields": {
             "upload_to": "player_images/Jo\u00e3o_Pedro.jpg",
             "name": "Jo\u00e3o Pedro",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Forward",
             "price": 10,
             "appearances": 21,
@@ -2225,7 +2225,7 @@
         "fields": {
             "upload_to": "player_images/Danny_Welbeck.jpg",
             "name": "Danny Welbeck",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Forward",
             "price": 9,
             "appearances": 20,
@@ -2245,7 +2245,7 @@
         "fields": {
             "upload_to": "player_images/Simon_Adingra.jpg",
             "name": "Simon Adingra",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Forward",
             "price": 8,
             "appearances": 18,
@@ -2265,7 +2265,7 @@
         "fields": {
             "upload_to": "player_images/Yankuba_Minteh.jpg",
             "name": "Yankuba Minteh",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Forward",
             "price": 7,
             "appearances": 22,
@@ -2285,7 +2285,7 @@
         "fields": {
             "upload_to": "player_images/Georginio_Rutter.jpg",
             "name": "Georginio Rutter",
-            "club": "Brighton and Hove Albion",
+            "club": "Brighton",
             "position": "Forward",
             "price": 9,
             "appearances": 26,

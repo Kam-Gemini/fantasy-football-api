@@ -35,7 +35,8 @@ class LoginView(APIView):
                     'user': {
                         'id': user.id,
                         'username': user.username,
-                        'is_admin': user.is_staff
+                        'is_admin': user.is_staff,
+                        'favourite_team': user.favourite_team
                     },
                     'exp' : int(exp_date.strftime('%s'))
                 },
