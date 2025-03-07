@@ -14,6 +14,8 @@ import environ
 
 import os
 
+import dj_database_url # note the underscores NOT hyphens on import
+
 env = environ.Env()
 environ.Env.read_env()
 
@@ -32,13 +34,13 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-# DEBUG = True
+# DEBUG = False
 
 # # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env.bool('DEBUG', default=False)
 
 if DEBUG:
-    ALLOWED_HOSTS = ['localhost', '127.0.0.1']
+    ALLOWED_HOSTS = ['*']
 
     CORS_ALLOWED_ORIGINS = [
         "http://localhost:5173",
@@ -62,8 +64,6 @@ else:
 
 # CORS_ALLOW_HEADERS = ["authorization"]  # Needed for JWT authentication
 
-ALLOWED_HOSTS = []
-
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
 
@@ -82,10 +82,6 @@ INSTALLED_APPS = [
     'players',
     'teams',
     'leagues',
-]
-
-CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173',
 ]
 
 MIDDLEWARE = [
@@ -130,15 +126,23 @@ WSGI_APPLICATION = 'project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'fantasy-football',
-        'HOST': 'localhost',
-        'PORT': '5432',
+if DEBUG:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql_psycopg2',
+            'NAME': 'fantasy-football',
+            'HOST': 'localhost',
+            'PORT': '5432',
+        }
     }
-}
-
+else:
+     DATABASES = {
+        'default': dj_database_url.parse(
+            env('DATABASE_URL'),
+            conn_max_age=600,
+            conn_health_checks=True,
+        )
+    }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.2/ref/settings/#auth-password-validators
