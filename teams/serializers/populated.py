@@ -1,12 +1,12 @@
 from rest_framework import serializers
 from .common import TeamSerializer
-from players.serializers.common import PlayerNamePriceSerializer
+from players.serializers.common import PlayerSerializer
 
 class PopulatedTeamSerializer(TeamSerializer):
-    goalkeeper = PlayerNamePriceSerializer()
-    defenders = PlayerNamePriceSerializer(many=True)
-    midfielders = PlayerNamePriceSerializer(many=True)
-    forwards = PlayerNamePriceSerializer(many=True)
+    goalkeeper = PlayerSerializer()
+    defenders = PlayerSerializer(many=True)
+    midfielders = PlayerSerializer(many=True)
+    forwards = PlayerSerializer(many=True)
 
     total_cost = serializers.SerializerMethodField()
     total_points = serializers.SerializerMethodField()
