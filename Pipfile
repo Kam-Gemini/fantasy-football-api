@@ -15,6 +15,7 @@ django-cors-headers = "*"
 whitenoise = "*"
 dj-database-url = "*"
 pyjwt = "*"
+django-cloudinary-storage = "*"
 
 [dev-packages]
 

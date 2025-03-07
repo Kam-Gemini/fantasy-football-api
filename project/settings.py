@@ -82,6 +82,8 @@ INSTALLED_APPS = [
     'players',
     'teams',
     'leagues',
+    'cloudinary_storage',
+    'cloudinary',
 ]
 
 MIDDLEWARE = [
@@ -195,3 +197,11 @@ if not DEBUG:
 # https://docs.djangoproject.com/en/4.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+CLOUDINARY_STORAGE = {
+  'CLOUD_NAME': env('CLOUD_NAME') ,
+  'API_KEY': env('API_KEY'),
+  'API_SECRET': env('API_SECRET'),
+  'CLOUDINARY_URL': f"cloudinary://{env('API_KEY')}:{env('API_SECRET')}@{env('CLOUD_NAME')}"
+}
+DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
