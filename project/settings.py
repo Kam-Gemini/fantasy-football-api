@@ -55,7 +55,7 @@ else:
     ALLOWED_HOSTS = ['fantasy-football-app-2e53f886e0ea.herokuapp.com']
 
     CORS_ALLOWED_ORIGINS = [
-        "https://yourfrontend.com",
+        "https://fantasy-football-app.netlify.app/",
     ]
 
     CSRF_TRUSTED_ORIGINS = [
