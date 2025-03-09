@@ -9,7 +9,7 @@ POSITION = [
 
 # Create your models here.
 class Players(models.Model):
-    upload_to = models.ImageField(upload_to='player_images/', default='player_images/default.jpg')
+    upload_to = models.CharField(max_length=500)
     name = models.CharField(max_length=50)
     club = models.CharField(max_length=50)
     position = models.CharField(max_length=50, choices=POSITION)
