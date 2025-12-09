@@ -4,7 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "*"
 pylint = "*"
 autopep8 = "*"
 psycopg2-binary = "*"
@@ -16,6 +15,7 @@ whitenoise = "*"
 dj-database-url = "*"
 pyjwt = "*"
 django-cloudinary-storage = "*"
+django = "*"
 
 [dev-packages]
 

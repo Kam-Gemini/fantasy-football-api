@@ -1,5 +1,9 @@
+from rest_framework import serializers
 from .common import LeagueSerializer
-from teams.serializers.common import TeamSerializer
+from teams.serializers.league import LeagueTeamSerializer
 
 class PopulatedLeagueSerializer(LeagueSerializer):
-    teams = TeamSerializer(many=True)
+    teams = LeagueTeamSerializer(many=True)
+
+    class Meta(LeagueSerializer.Meta):
+        fields = LeagueSerializer.Meta.fields
